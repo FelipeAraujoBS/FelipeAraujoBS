@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning JavaScript, HTML, CSS and looking foward to start in C# 
 - 💞️ I’m looking to collaborate on Games and Smart solutions on the Web
-- 📫 How to reach me ... You guys can reach me in my profissional Email felipearaujobs@hotmail.com
+- 📫 How to reach me ... You guys can reach me in my profissional Email felipearaujobs@outlook.com
 
 <!---
 FelipeAraujoBS/FelipeAraujoBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
