@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **independent projects**
 
-- 🌱 I’m currently learning **TypeScript and  DenoJS**
+- 🌱 I’m currently learning **TypeScript, Go and MongoDB**
 
 - 👯 I’m looking to collaborate on **meaningful companies**
 
