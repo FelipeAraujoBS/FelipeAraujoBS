@@ -33,8 +33,6 @@
  </p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearaujobs&layout=compact)](https://camo.githubusercontent.com/e5b06f391b52c046241b7b7bb5e3df4b11daeaa68ea80bf43ef1979289f2f8b3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d66656c697065617261756a6f627326)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipearaujobs&" alt="felipearaujobs" /></p>
 
 
