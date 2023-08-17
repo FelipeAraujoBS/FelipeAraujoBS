@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **independent projects**
 
-- 🌱 I’m currently learning **TypeScript, Go and MongoDB**
+- 🌱 I’m currently learning **Postgress**
 
 - 👯 I’m looking to collaborate on **meaningful companies**
 
-- 🤝 I’m looking for help with **JavaScript, React and Node projects**
+- 🤝 I’m looking for help with **JavaScript, React and Node(Express) projects**
 
-- 📫 How to reach me **felipearaujobs@outlook.com**
+- 📫 How to reach me **felipearaujobs@hotmail.com**
 
 - ⚡ Fun fact **Hard worker, super funny tho.**
 
