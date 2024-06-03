@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **independent projects**
 
-- 🌱 I’m currently learning **Angular, Nest.js and Typescript**
+- 🌱 I’m currently learning **Java, Springboot & Typescript**
 
 - 👯 I’m looking to collaborate on **meaningful companies**
 
