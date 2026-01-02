@@ -1,7 +1,7 @@
 # 💫 Sobre mim/About Me:
-🔭 Atualmente estou trabalhando em projetos com TypeScript, JavaScript, NextJS, NestJS e Node.
+🔭 Atualmente estou trabalhando em projetos com TypeScript, JavaScript, NestJS, Node, React e NextJS.
 <br>
-<br>👯 Busco colaborar em projetos full-stack que unam interfaces elegantes e de alta qualidade com uma arquitetura de backend sólida — desde frontends refinados em React/Next.js até APIs escaláveis em Node.js/NestJS.
+<br>👯 Busco colaborar em projetos que unam interfaces elegantes e de alta qualidade com uma arquitetura de backend sólida — desde frontends em React/Next.js até APIs escaláveis em Node/NestJS.
 <br>
 <br>🤝 Busco ajuda para melhorar a estrutura de aplicações em larga escala, refinar padrões de API e fluxo de dados, e explorar melhores práticas para conectar frontends complexos com serviços backend confiáveis.
 <br>
@@ -14,8 +14,8 @@
 <br>
 <br>
 
-🔭 I’m currently working on projects with Typrescript, Javascript, NextJS, NestJS and Node.<br>
-<br>👯 I’m looking to collaborate on Full-stack projects that combine elegant, high-quality interfaces with solid backend architecture — from polished React/Next.js frontends to scalable Node.js/NestJS APIs. <br>
+🔭 I’m currently working on projects with Typrescript, Javascript, NestJS, Node, React and NextJS.<br>
+<br>👯 I’m looking to collaborate on projects that combine elegant, high-quality interfaces with solid backend architecture — from polished React/Next.js frontends to scalable Node.js/NestJS APIs. <br>
 <br>🤝 I’m looking for help with Improving large-scale application structure, refining API and data-flow patterns, and exploring best practices for connecting complex frontends with reliable backend services.<br>
 <br>🌱 I’m currently learning Advanced component patterns in Next.js, backend optimization with NestJS, API performance tuning, and better approaches for aligning UX, design systems, and server architecture.<br>
 <br>💬 Ask me about React, Next.js, Tailwind CSS, Node.js, NestJS, API integrations, UI/UX decisions, architecture planning, and turning product requirements into clean, maintainable systems end-to-end.<br>
