@@ -4,11 +4,11 @@
 
 Estou no 5º período de Análise e Desenvolvimento de Sistemas. Sou um Desenvolvedor Backend com 2 anos de experiência(Entre certificações e projetos pessoais/autônomos). Apaixonado em transformar ideias e projetos complexos em aplicações reais, estou ansioso para colaborar com uma gama de profissionais experientes na área.
 
-### 🌐 Midias Sociais:
+## 🌐 Midias Sociais:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-FAFA33)](https://www.linkedin.com/in/felipe-de-araujo-b87386231/) 
 [![email](https://img.shields.io/badge/Email-FAFA33)](mailto:felipearaujobs@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tecnologias que uso:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%FAFA33) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
