@@ -49,7 +49,7 @@ Currently working as a **freelance backend developer** for startups and small bu
 
 ## Stack Status
 
-[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&theme=transparent)](https://github.com/FelipeAraujoBS)   
+[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&theme=transparent&hide=html,css))](https://github.com/FelipeAraujoBS)   
 
 [![FelipeAraujoBS GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAraujoBS&theme=transparent)](https://github.com/FelipeAraujoBS) 
 
