@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-araujo-b87386231/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipearaujobs@hotmail.com)
 
----
 
 ## 👨‍💻 About Me
 
@@ -17,8 +16,6 @@ Currently working as a **freelance backend developer** for startups and small bu
 🏆 Top 10% graduate from Cubos Academy Backend Bootcamp (500h)  
 📚 Teaching Assistant for Data Structures & Algorithms (2024-2025)  
 🌐 Advanced English (C2 Proficiency) for international collaboration
-
----
 
 ## 💻 Tech Stack
 
@@ -49,7 +46,6 @@ Currently working as a **freelance backend developer** for startups and small bu
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
----
 
 ## Stack Status
 
@@ -65,7 +61,6 @@ Currently working as a **freelance backend developer** for startups and small bu
 - 🌱 Deepening knowledge in Kubernetes and advanced microservices patterns
 - ✍️ Writing technical articles on LinkedIn about architecture and best practices
 
----
 
 ## 💼 Open to Opportunities
 
