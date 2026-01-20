@@ -51,6 +51,13 @@ Currently working as a **freelance backend developer** for startups and small bu
 
 ---
 
+## Stack Status
+
+[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&theme=transparent)](https://github.com/FelipeAraujoBS)   
+
+[![FelipeAraujoBS GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAraujoBS&theme=transparent)](https://github.com/FelipeAraujoBS) 
+
+
 ## 🎯 What I'm Currently Working On
 
 - 🔨 Building production-ready REST APIs for clients
