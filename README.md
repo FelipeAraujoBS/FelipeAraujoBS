@@ -12,7 +12,7 @@ Backend developer focused on building **scalable APIs** and **microservices** wi
 
 Currently working as a **freelance backend developer** for startups and small businesses, delivering solutions from technical planning to production deployment.
 
-🎓 CS student (5th semester) at Universidade Católica de Salvador  
+🎓 ADS student (5th semester) at Universidade Católica de Salvador  
 🏆 Top 10% graduate from Cubos Academy Backend Bootcamp (500h)  
 📚 Teaching Assistant for Data Structures & Algorithms (2024-2025)  
 🌐 Advanced English (C2 Proficiency) for international collaboration
