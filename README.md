@@ -14,7 +14,7 @@ My background in building APIs and microservices gives me an uncommon edge: I un
 
 Currently working as a freelance **data analyst** and **backend developer**, delivering solutions from technical planning to production deployment.
 
-🎓 ADS student (5th semester) at Universidade Católica de Salvador  
+🎓 Software Engineering/ADS student (5th semester) at Universidade Católica de Salvador  
 🏆 Top 10% graduate from Cubos Academy Backend Bootcamp (500h)  
 📚 Teaching Assistant for Data Structures & Algorithms (2024-2025)  
 🌐 Fluent English (C2 Proficiency) for international collaboration
