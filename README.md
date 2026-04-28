@@ -76,8 +76,11 @@ Construo desde a modelagem do banco até o dado virar insight. Sei onde pipeline
 
 ---
 ## Stack Status
-
-[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&theme=transparent&hide=Jupyter%20Notebook,html,css)](https://github.com/FelipeAraujoBS)  
+      
+<div display="flex" align-items="space-evenly">
+  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&layout=compact&theme=transparent&hide=Jupyter%20Notebook,html,css" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=FelipeAraujoBS&theme=transparent&hide_border=true&background=FFFFFF00" />
+</div>
 
 ## Em andamento
 
