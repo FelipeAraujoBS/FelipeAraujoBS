@@ -76,7 +76,7 @@ Currently working as a freelance **data analyst** and **backend developer**, del
 
 ## Stack Status
 
-[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&theme=transparent&hide=html,css)](https://github.com/FelipeAraujoBS)   
+[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&hide=Jupyter%20Notebook&theme=transparent&hide=html,css)](https://github.com/FelipeAraujoBS)   
 
 <!--[![FelipeAraujoBS GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAraujoBS&theme=transparent)](https://github.com/FelipeAraujoBS) */-->
 
