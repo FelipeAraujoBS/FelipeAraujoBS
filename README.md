@@ -1,4 +1,4 @@
-# Felipe de Araújo Bomfim dos Santos
+# Felipe de Araújo
 
 ### Desenvolvedor Fullstack · Backend · Node.js · TypeScript · Sistemas Distribuídos
 
