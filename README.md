@@ -75,6 +75,9 @@ Construo desde a modelagem do banco até o dado virar insight. Sei onde pipeline
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
+## Stack Status
+
+[![FelipeAraujoBS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&theme=transparent&hide=Jupyter%20Notebook,html,css)](https://github.com/FelipeAraujoBS)  
 
 ## Em andamento
 
