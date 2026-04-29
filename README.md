@@ -77,7 +77,7 @@ Construo desde a modelagem do banco até o dado virar insight. Sei onde pipeline
 ---
 ## Stack Status
       
-<div display="flex" align-items="space-evenly">
+<div display="flex" align-items="space-around">
   <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&layout=compact&theme=transparent&hide=Jupyter%20Notebook,html,css" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=FelipeAraujoBS&theme=transparent&hide_border=true&background=FFFFFF00" />
 </div>
