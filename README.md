@@ -26,7 +26,7 @@ Construo desde a modelagem do banco até o dado virar insight. Sei onde pipeline
 |---|---|---|
 | 🌦️ [Weather Monitoring System](https://github.com/FelipeAraujoBS/weather-monitoring-system-revamped) | Sistema distribuído que coleta, processa e expõe dados climáticos em tempo real. Processa +100k registros/hora com filas, retry e integração com LLM (OpenAI) para geração automática de insights. | TypeScript · NestJS · Go · Python · RabbitMQ · MongoDB |
 | 📋 [Logflow – Plataforma de Logs](https://github.com/FelipeAraujoBS/logs-platform-logflow) | Plataforma centralizada de logs e telemetria para múltiplas aplicações. Suporte a HTTP/REST e gRPC, pipeline assíncrono com BullMQ e dashboard Angular em monorepo TypeScript. | TypeScript · Fastify · NestJS · gRPC · BullMQ · Redis · MongoDB · Angular |
-| ✅ [Rotinando(Gerenciador de Tarefas) – API](https://github.com/FelipeAraujoBS/Rotinando-manager-API-Node-Javascript) | API RESTful para gestão de tarefas e rotinas com autenticação JWT e lógica de agendamento. | TypeScript · NestJS · MongoDB · JWT |
+| ✅ [Rotinando(Gerenciador de Tarefas) – API](https://github.com/FelipeAraujoBS/Rotinando-manager-API-Node-Javascript) | API RESTful para gestão de tarefas e rotinas com autenticação JWT e lógica de agendamento. | Javascript · Node · MongoDB · JWT |
 
 ---
 ## Projetos Frontend
