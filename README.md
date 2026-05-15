@@ -29,8 +29,8 @@ TypeScript · Node.js · SQLite · Next.js · Python · Full Text Search · Inde
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 📚 [A Procura de Gelo e Fogo](https://github.com/FelipeAraujoBS/weather-monitoring-system-revamped) |Motor de busca textual inspirado no A Search of Ice and Fire, com pipeline automatizado de parsing de EPUBs, indexação via SQLite FTS5 e API em Fastify/TypeScript para recuperação contextual de trechos literários com filtros por livro, capítulo e POV. | Python · TypeScript · Node · Fastify · SQLite FTS5 · SQLite |
-| 🌦️ [Weather Monitoring System](https://github.com/FelipeAraujoBS/weather-monitoring-system-revamped) | Sistema distribuído que coleta, processa e expõe dados climáticos em tempo real. Processa +100k registros/hora com filas, retry e integração com LLM (OpenAI) para geração automática de insights. | TypeScript · NestJS · Go · Python · RabbitMQ · MongoDB |
+| 📚 [A Procura de Gelo e Fogo](https://github.com/FelipeAraujoBS/A-Procura-de-Gelo-e-Fogo-Backend) |Motor de busca textual inspirado no A Search of Ice and Fire, com pipeline automatizado de parsing de EPUBs, indexação via SQLite FTS5 e API em Fastify/TypeScript para recuperação contextual de trechos literários com filtros por livro, capítulo e POV. | Python · TypeScript · Node · Fastify · SQLite FTS5 · SQLite |
+| 🌦️ [Weather Monitoring System](https://github.com/FelipeAraujoBS/weather-monitoring-system) | Sistema distribuído que coleta, processa e expõe dados climáticos em tempo real. Processa +100k registros/hora com filas, retry e integração com LLM (OpenAI) para geração automática de insights. | TypeScript · NestJS · Go · Python · RabbitMQ · MongoDB |
 | 📋 [Logflow – Plataforma de Logs](https://github.com/FelipeAraujoBS/logs-platform-logflow) | Plataforma centralizada de logs e telemetria para múltiplas aplicações. Suporte a HTTP/REST e gRPC, pipeline assíncrono com BullMQ e dashboard Angular em monorepo TypeScript. | TypeScript · Fastify · NestJS · gRPC · BullMQ · Redis · MongoDB · Angular |
 | ✅ [Rotinando(Gerenciador de Tarefas) – API](https://github.com/FelipeAraujoBS/Rotinando-manager-API-Node-Javascript) | API RESTful para gestão de tarefas e rotinas com autenticação JWT e lógica de agendamento. | Javascript · Node · MongoDB · JWT |
 
@@ -39,7 +39,7 @@ TypeScript · Node.js · SQLite · Next.js · Python · Full Text Search · Inde
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 📚 [A Procura de Gelo e Fogo](https://github.com/FelipeAraujoBS/weather-monitoring-system-revamped) | Interface SPA construída em Next.js focada em exploração textual refinada das Crônicas de Gelo e Fogo. Consome uma API Fastify para busca full-text contextual, oferecendo filtros dinâmicos por livro e capítulo, URL sincronizada, tema dark/light e experiência cinematográfica inspirada em mecanismos de busca literários. | TypeScript · React · Next.js (App Router) · Tailwind CSS · shadcn/ui |
+| 📚 [A Procura de Gelo e Fogo](https://github.com/FelipeAraujoBS/A-Procura-de-Gelo-e-Fogo-Frontend) | Interface SPA construída em Next.js focada em exploração textual refinada das Crônicas de Gelo e Fogo. Consome uma API Fastify para busca full-text contextual, oferecendo filtros dinâmicos por livro e capítulo, URL sincronizada, tema dark/light e experiência cinematográfica inspirada em mecanismos de busca literários. | TypeScript · React · Next.js (App Router) · Tailwind CSS · shadcn/ui |
 | ✅ [Rotinando(Gerenciador de Tarefas) - Frontend](https://github.com/FelipeAraujoBS/Rotinando-task-manager-React) | Frontend do projeto Rotinando, uma aplicação web para gerenciamento de tarefas com autenticação JWT. Desenvolvido em React e Tailwind CSS. | Javascript - React - TailwindCSS |
 
 ---
