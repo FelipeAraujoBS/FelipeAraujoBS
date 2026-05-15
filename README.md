@@ -18,6 +18,11 @@ Construo desde a modelagem do banco até o dado virar insight. Sei onde pipeline
 🏆 Top 10% — Bootcamp Backend Cubos Academy (500h)  
 🌐 Inglês avançado — reuniões, code reviews e colaboração internacional
 
+Atualmente desenvolvendo "A Procura de Gelo e Fogo", uma plataforma inspirada no A Search of Ice and Fire que indexa completamente os livros de As Crônicas de Gelo e Fogo e funciona como um mecanismo de busca sobre o texto da obra.
+
+Tecnologias e conceitos envolvidos:
+TypeScript · Node.js · SQLite · Next.js · Python · Full Text Search · Indexação · APIs · Processamento de Texto · Engenharia de Dados
+
 ---
 
 ## Projetos Backend
