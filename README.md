@@ -189,14 +189,6 @@ Hands-on experience in international teams. APIs and systems with direct impact 
 />
 <img 
     align="left" 
-    alt="JWT"
-    title="JWT Authentication" 
-    width="30px" 
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Prisma"
     title="Prisma" 
     width="30px" 
