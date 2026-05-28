@@ -85,9 +85,10 @@ TypeScript · Node.js · SQLite · Next.js · Python · Full Text Search · Inde
 ## Stack Status
       
 <div align="center">
-  <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&layout=compact&theme=transparent&hide=Jupyter%20Notebook,html,css" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=FelipeAraujoBS&theme=transparent&hide_border=true&background=FFFFFF00" />
+      <img alt="Felipe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&langs_count=6&layout=compact&theme=transparent&hide_border=true&hide=Java,Jupyter%20Notebook,Roff,HTML,CSS"/>
+  <img src="https://streak-stats.demolab.com?user=FelipeAraujoBS&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ## Em andamento
 
