@@ -211,7 +211,7 @@ Hands-on experience in international teams. APIs and systems with direct impact 
 
 ### In Progress:
 
-- Extension of the various projects with prompt fine-tuning and structured evaluation of model outputs
+- Extension of various projects with prompt fine-tuning and structured evaluation of model outputs
 - Autonomous agent architecture orchestrated with LangGraph
 - Certification in Distributed Systems Architecture
 
