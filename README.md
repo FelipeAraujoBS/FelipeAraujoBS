@@ -1,108 +1,229 @@
 # Felipe de Araújo
-
-### Desenvolvedor Fullstack · Backend · Node.js · TypeScript · Sistemas Distribuídos
+**`Software Engineer · Distributed Systems · AI Integration`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-araujo-b87386231/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipearaujobs@hotmail.com)
 
----
-
-## Sobre
-
-Desenvolvedor fullstack com foco em backend, especializado em **Node.js, TypeScript e NestJS**. Experiência prática em sistemas distribuídos, APIs REST e automações com impacto direto em mais de **3.000 usuários em produção**.
-
-Construo desde a modelagem do banco até o dado virar insight. Sei onde pipelines quebram em produção porque já consertei os meus. Me comunico bem em inglês — tenho experiência real em equipes internacionais, não só no papel.
-
-🎓 Análise e Desenvolvimento de Sistemas — UCSAL (5º semestre)  
-📚 Monitor de Lógica de Programação e Estrutura de Dados (2025–2026)  
-🏆 Top 10% — Bootcamp Backend Cubos Academy (500h)  
-🌐 Inglês avançado — reuniões, code reviews e colaboração internacional
-
-Atualmente desenvolvendo "A Busca de Gelo e Fogo", uma plataforma inspirada no A Search of Ice and Fire que indexa completamente os livros de As Crônicas de Gelo e Fogo e funciona como um mecanismo de busca sobre o texto da obra.
-
-Tecnologias e conceitos envolvidos:
-TypeScript · Node.js · SQLite · Next.js · Python · Full Text Search · Indexação · APIs · Processamento de Texto · Engenharia de Dados
+Software Engineer focused on distributed systems, event-driven architectures, and LLM integration. I build pipelines from ingestion to insight, with a emphasis on reliability, observability, and production-ready code.
+ 
+Hands-on experience in international teams. APIs and systems with direct impact on **3,000+ users in production**.
 
 ---
 
-## Projetos Backend📚
+### Programming Languages:
+<img 
+    align="left" 
+    alt="Typescript"
+    title="Typescript" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Go"
+    title="Go" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 📚 [A Procura de Gelo e Fogo](https://github.com/FelipeAraujoBS/A-Procura-de-Gelo-e-Fogo-Backend) |Motor de busca textual inspirado no A Search of Ice and Fire, com pipeline automatizado de parsing de EPUBs, indexação via SQLite FTS5 e API em Fastify/TypeScript para recuperação contextual de trechos literários com filtros por livro, capítulo e POV. | Python · TypeScript · Node · Fastify · SQLite FTS5 · SQLite |
-| 🌦️ [Weather Monitoring System](https://github.com/FelipeAraujoBS/weather-monitoring-system) | Sistema distribuído que coleta, processa e expõe dados climáticos em tempo real. Processa +100k registros/hora com filas, retry e integração com LLM (OpenAI) para geração automática de insights. | TypeScript · NestJS · Go · Python · RabbitMQ · MongoDB |
-| 📋 [Logflow – Plataforma de Logs](https://github.com/FelipeAraujoBS/logs-platform-logflow) | Plataforma centralizada de logs e telemetria para múltiplas aplicações. Suporte a HTTP/REST e gRPC, pipeline assíncrono com BullMQ e dashboard Angular em monorepo TypeScript. | TypeScript · Fastify · NestJS · gRPC · BullMQ · Redis · MongoDB · Angular |
-| ✅ [Rotinando(Gerenciador de Tarefas) – API](https://github.com/FelipeAraujoBS/Rotinando-manager-API-Node-Javascript) | API RESTful para gestão de tarefas e rotinas com autenticação JWT e lógica de agendamento. | Javascript · Node · MongoDB · JWT |
+<br clear="left"/>
+
+### Frameworks & Libraries:
+<img 
+    align="left" 
+    alt="Node"
+    title="Node" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NestJS"
+    title="NestJS" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Fastify"
+    title="Fastify" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NextJS"
+    title="NextJS" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<br clear="left"/>
+
+### Messaging & Infrastructure:
+<img 
+    align="left" 
+    alt="RabbitMQ"
+    title="RabbitMQ" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Redis"
+    title="Redis" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="gRPC"
+    title="gRPC" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
+<br clear="left"/>
+
+### Database
+<img 
+    align="left" 
+    alt="Postgresql"
+    title="Postgresql" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQLite"
+    title="SQLite" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<br clear="left"/>
+
+### Other Technologies:
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bash"
+    title="Bash" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Swagger"
+    title="Swagger / OpenAPI" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JWT"
+    title="JWT Authentication" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prisma"
+    title="Prisma" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+
+<br clear="left"/>
 
 ---
-## Projetos Frontend
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 📚 [A Procura de Gelo e Fogo](https://github.com/FelipeAraujoBS/A-Procura-de-Gelo-e-Fogo-Frontend) | Interface SPA construída em Next.js focada em exploração textual refinada das Crônicas de Gelo e Fogo. Consome uma API Fastify para busca full-text contextual, oferecendo filtros dinâmicos por livro e capítulo, URL sincronizada, tema dark/light e experiência cinematográfica inspirada em mecanismos de busca literários. | TypeScript · React · Next.js (App Router) · Tailwind CSS · shadcn/ui |
-| ✅ [Rotinando(Gerenciador de Tarefas) - Frontend](https://github.com/FelipeAraujoBS/Rotinando-task-manager-React) | Frontend do projeto Rotinando, uma aplicação web para gerenciamento de tarefas com autenticação JWT. Desenvolvido em React e Tailwind CSS. | Javascript - React - TailwindCSS |
-
----
-## Projetos de Dados
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🛒 [Análise E-commerce Olist](https://github.com/FelipeAraujoBS/EDA-olist-ecommerce-analysis) | EDA em dataset real com ~650k registros. Identificação de padrões logísticos, gaps por categoria e oportunidades geográficas de expansão. | Python · Pandas · Seaborn · Jupyter |
----
-
-## Stack
-
-### Backend
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### Mensageria e Infra
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Banco de Dados
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Dados
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-## Stack Status
+### Stats:
       
 <div align="center">
       <img alt="Felipe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoBS&langs_count=6&layout=compact&theme=transparent&hide_border=true&hide=Java,Jupyter%20Notebook,Roff,HTML,CSS"/>
   <img src="https://streak-stats.demolab.com?user=FelipeAraujoBS&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
-## Em andamento
-
-- ☁️ Preparando certificação na área de Arquitetura de Sistemas.
-- 🤖 Estudando fundamentos de IA e Machine Learning.
-- 📝 Escrevendo artigos técnicos no LinkedIn sobre arquitetura e boas práticas.
-
 ---
 
-## Aberto a oportunidades
+### In Progress:
 
-Buscando **vaga júnior de backend ou fullstack** em times que valorizem arquitetura limpa, código testável e boas práticas.
+- Extension of the various projects with prompt fine-tuning and structured evaluation of model outputs
+- Autonomous agent architecture orchestrated with LangGraph
+- Certification in Distributed Systems Architecture
 
-Minha experiência em dados me torna especialmente útil em contextos que cruzam engenharia e análise — pipelines, qualidade de dados e código pronto para produção.
+---
 
 📧 felipearaujobs@hotmail.com  
 🌐 [linkedin.com/in/felipe-de-araujo-b87386231](https://www.linkedin.com/in/felipe-de-araujo-b87386231/)
