@@ -1,12 +1,25 @@
 # Felipe de Araújo
-**`Software Engineer · Distributed Systems · AI Integration`**
+**`Backend Engineer · Distributed Systems · AI Engineering`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-araujo-b87386231/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/felipearaujobs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipearaujobs@hotmail.com)
 
-Software Engineer focused on distributed systems, event-driven architectures, and LLM integration. I build pipelines from ingestion to insight, with a emphasis on reliability, observability, and production-ready code.
- 
-Hands-on experience in international teams. APIs and systems with direct impact on **3,000+ users in production**.
+Backend Engineer specializing in distributed systems and AI Engineering. I build production-ready pipelines, from event-driven architectures to RAG systems with hybrid retrieval, reranking, and LLM-as-judge evaluation.
+
+Currently finishing a degree in Systems Analysis and Development at Universidade Católica do Salvador (expected graduation: 2026), with a background in Geophysics that gave me an early foundation in applied mathematics.
+
+APIs and systems with direct impact on **3,000+ users in production**. Open to internship opportunities in AI/ML Engineering.
+
+---
+
+### 🔨 Featured Projects
+
+**[Uma Busca de Gelo e Fogo](https://buscadegeloefogo.vercel.app)** — RAG system over the full A Song of Ice and Fire corpus (~66k paragraphs). Hybrid retrieval with BAAI/bge-m3 dense embeddings + BM25 sparse, Reciprocal Rank Fusion, cross-encoder reranking, and LLM-as-judge evals. ~250 daily accesses.
+`Python · FastAPI · ChromaDB · Groq · Next.js`
+
+**[LA Canvas Playground](https://github.com/FelipeAraujoBS/LA-Canva-Playground)** — Interactive Linear Algebra visualizer built as a study tool: 2×2 systems, Column/Row Picture, and Gaussian elimination step-by-step.
+`TypeScript · React`
 
 ---
 
@@ -65,11 +78,11 @@ Hands-on experience in international teams. APIs and systems with direct impact 
 />
 <img 
     align="left" 
-    alt="Express"
-    title="Express" 
+    alt="FastAPI"
+    title="FastAPI" 
     width="30px" 
     style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
 <img 
     align="left" 
@@ -126,7 +139,7 @@ Hands-on experience in international teams. APIs and systems with direct impact 
 
 <br clear="left"/>
 
-### Database
+### Databases:
 <img 
     align="left" 
     alt="Postgresql"
@@ -154,7 +167,7 @@ Hands-on experience in international teams. APIs and systems with direct impact 
 
 <br clear="left"/>
 
-### Other Technologies:
+### Other:
 <img 
     align="left" 
     alt="Git"
@@ -209,11 +222,11 @@ Hands-on experience in international teams. APIs and systems with direct impact 
 
 ---
 
-### In Progress:
+### Currently:
 
-- Extension of various projects with prompt fine-tuning and structured evaluation of model outputs
-- Autonomous agent architecture orchestrated with LangGraph
-- Certification in Distributed Systems Architecture
+- Studying advanced RAG techniques, agents, and LangGraph
+- Rebuilding math foundations for ML: Linear Algebra (MIT 18.06), Statistics, Probability
+- Writing about the process at [dev.to/felipearaujobs](https://dev.to/felipearaujobs)
 
 ---
 
