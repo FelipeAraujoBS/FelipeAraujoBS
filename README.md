@@ -15,10 +15,14 @@ APIs and systems with direct impact on **3,000+ users in production**. Open to i
 
 ### 🔨 Featured Projects
 
-**[Uma Busca de Gelo e Fogo](https://buscadegeloefogo.vercel.app)** — RAG system over the full A Song of Ice and Fire corpus (~66k paragraphs). Hybrid retrieval with BAAI/bge-m3 dense embeddings + BM25 sparse, Reciprocal Rank Fusion, cross-encoder reranking, and LLM-as-judge evals. ~250 daily accesses.
-`Python · FastAPI · ChromaDB · Groq · Next.js`
+**[Uma Busca de Gelo e Fogo](https://buscadegeloefogo.vercel.app)** — Full production system of 3 microservices over the A Song of Ice and Fire corpus. **[Backend](https://github.com/FelipeAraujoBS/A-Procura-de-Gelo-e-Fogo-Backend)**: full-text search engine (SQLite FTS5) over 10 books / 2,400+ chapters, with an EPUB parsing pipeline (POV detection, alias normalization) and a Fastify REST API. **[RAG Service](https://github.com/FelipeAraujoBS/Uma-RAG-de-Gelo-e-Fogo)**: hybrid retrieval (BAAI/bge-m3 dense + BM25 sparse + RRF), cross-encoder reranking, and LLM-as-judge evals over ~66k paragraphs. **[Frontend](https://github.com/FelipeAraujoBS/A-Procura-de-Gelo-e-Fogo-Frontend)**: Next.js. ~250 daily accesses in production.
+`TypeScript · Python · Fastify · SQLite FTS5 · FastAPI · ChromaDB · Groq · Next.js`
 
-**[LA Canvas Playground](https://github.com/FelipeAraujoBS/LA-Canva-Playground)** — Interactive Linear Algebra visualizer built as a study tool: 2×2 systems, Column/Row Picture, and Gaussian elimination step-by-step.
+**[Weather Monitoring System](https://github.com/FelipeAraujoBS/weather-monitoring-system)** — Full-stack distributed weather monitoring pipeline: Python collector → RabbitMQ → Go worker → NestJS API → React dashboard. Real-time data, AI-generated insights, and CSV/XLSX export.
+`Python · Go · NestJS · RabbitMQ · React · MongoDB`
+
+**[Logflow](https://github.com/FelipeAraujoBS/logs-platform-logflow)** — Centralized real-time log ingestion and monitoring platform. Ingests logs via HTTP and gRPC, processes them asynchronously with BullMQ/Redis, and persists to MongoDB, with an Angular dashboard for filtering and analysis.
+`Node.js · TypeScript · Fastify · gRPC · BullMQ · Angular`
 `TypeScript · React`
 
 ---
