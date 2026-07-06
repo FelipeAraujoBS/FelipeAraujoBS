@@ -6,10 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipearaujobs@hotmail.com)
 
 Backend Engineer specializing in distributed systems and AI Engineering. I build production-ready pipelines, from event-driven architectures to RAG systems with hybrid retrieval, reranking, and LLM-as-judge evaluation.
+2+ years of professional experience building and operating backend systems in production, with direct impact on 3,000+ users. Open to Backend / AI Engineering roles (mid-level), remote-first.
+Background in Geophysics, which grounds my applied math foundations for ML.
 
-Currently finishing a degree in Systems Analysis and Development at Universidade Católica do Salvador (expected graduation: 2026), with a background in Geophysics that gave me an early foundation in applied mathematics.
-
-APIs and systems with direct impact on **3,000+ users in production**. Open to internship opportunities in AI/ML Engineering.
+Currently finishing a degree in Software Engineer at Universidade Católica do Salvador (expected graduation: 2028);
 
 ---
 
@@ -228,8 +228,8 @@ APIs and systems with direct impact on **3,000+ users in production**. Open to i
 
 ### Currently:
 
-- Studying advanced RAG techniques, agents, and LangGraph
-- Rebuilding math foundations for ML: Linear Algebra (MIT 18.06), Statistics, Probability
+- Deepening expertise in agentic RAG architectures and LangGraph
+- Strengthening the applied math layer behind ML (Linear Algebra, Statistics, Probability) — building on a Geophysics background
 - Writing about the process at [dev.to/felipearaujobs](https://dev.to/felipearaujobs)
 
 ---
